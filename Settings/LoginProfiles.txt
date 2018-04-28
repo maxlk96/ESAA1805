@@ -1,0 +1,406 @@
+PROFILE
+PROFILE:ESMM_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Covering ESMM AoR (south part of Sweden). Charts and information at www.vatsim-scandinavia.org
+ATIS4:Initial climb clearance 5000 ft at ESGG and 4000 ft at ESMS/ESTL unless otherwise instructed.
+PROFILE:ESMM_2_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector 2
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESMM_3_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector 3
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESMM_5_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Covering ESMM AoR (south part of Sweden). Charts and information at www.vatsim-scandinavia.org
+ATIS4:Initial climb clearance 5000 ft at ESGG and 4000 ft at ESMS/ESTL unless otherwise instructed.
+PROFILE:ESMM_6_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector 6
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESMM_7_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector 7
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESMM_8_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector 8
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESMM_K_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector K
+ATIS4:Providing terminal control for ESMT, ESTA and ESTL up to FL285.
+PROFILE:ESMM_W_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector W
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESOS_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Charts and information at www.vatsim-scandinavia.org
+ATIS4:Initial climb clearance 5000 ft unless otherwise instructed at ESSA/GG/KN/NU/PA
+PROFILE:ESOS_1_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Charts and information at www.vatsim-scandinavia.org
+ATIS4:Initial climb clearance 5000 ft unless otherwise instructed at ESSA/GG/KN/NU/PA
+PROFILE:ESOS_2_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Covering ESOS sector 2 including Visby TMA
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESOS_3_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector 3
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESOS_6_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Covering ESOS sector 6 (Baltic Sea - no airports in this sector)
+ATIS4:
+PROFILE:ESOS_7_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector 7
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESOS_8_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector 8
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESOS_F_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector F
+ATIS4:Charts and information at www.vatsim-scandinavia.org
+PROFILE:ESOS_K_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector K - northernmost part of Sweden
+ATIS4:Covering ESNG, ESNL, ESNQ, ESNS, ESNV, ESNX, ESPA, ESPE, ESUD, ESUP, ESUT
+PROFILE:ESOS_N_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Sector N - north part of Sweden
+ATIS4:Covering ESND, ESNK, ESNN, ESNO, ESNU, ESNZ
+PROFILE:ESCR_CTR:250:6
+ATIS2:Fighter Control
+ATIS3:
+ATIS4:
+PROFILE:ESCF_TWR:50:4
+ATIS2:Malmen Tower
+ATIS3:MIL channel A
+ATIS4:
+PROFILE:ESCM_TWR:50:4
+ATIS2:Uppsala Tower
+ATIS3:MIL channel A
+ATIS4:
+PROFILE:ESDF_APP:100:5
+ATIS2:Ronneby Control
+ATIS3:MIL channel C2
+ATIS4:
+PROFILE:ESDF_TWR:50:4
+ATIS2:Ronneby Tower
+ATIS3:MIL channel A
+ATIS4:
+PROFILE:ESGG_APP:150:5
+ATIS2:Göteborg Control - covering ESGG, ESGP, ESGT and ESIB
+ATIS3:ESGG ATIS 118.375
+ATIS4:ESGG departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESGG_E_APP:150:5
+ATIS2:Göteborg Control - TMA sector E
+ATIS3:ESGG ATIS 118.375
+ATIS4:ESGG departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESGG_W_APP:150:5
+ATIS2:Göteborg Control - TMA sector W
+ATIS3:ESGG ATIS 118.375
+ATIS4:ESGG departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESGG_F_APP:150:5
+ATIS2:Göteborg Arrival
+ATIS3:
+ATIS4:
+PROFILE:ESGG_TWR:50:4
+ATIS2:Landvetter Tower
+ATIS3:ATIS on 118.370. Advise if unable to follow RNAV SID.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESGG_GND:20:3
+ATIS2:Landvetter Ground
+ATIS3:ATIS on 118.375. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESGG_DEL:10:2
+ATIS2:Landvetter Clearance Delivery
+ATIS3:ATIS on 118.375. On first contact state parking position, ATIS letter, QNH and aircraft type. Advise if unable to follow RNAV SID.
+ATIS4:Aircraft on SID shall climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESGJ_TWR:50:4
+ATIS2:Jönköping Tower
+ATIS3:Covering Jönköping CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESGP_TWR:50:4
+ATIS2:Säve Tower
+ATIS3:Covering Säve CTR up to 1500 ft
+ATIS4:
+PROFILE:ESGR_I_TWR:50:4
+ATIS2:Skövde Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESGT_TWR:50:4
+ATIS2:Trollhättan Tower
+ATIS3:Covering Trollhättan CTR and TMA Sector Trollhättan
+ATIS4:
+PROFILE:ESIA_APP:100:5
+ATIS2:Karlsborg Control
+ATIS3:MIL channel C2
+ATIS4:
+PROFILE:ESIA_TWR:50:4
+ATIS2:Karlsborg Tower
+ATIS3:MIL channel A
+ATIS4:
+PROFILE:ESIB_APP:100:5
+ATIS2:Såtenäs Control
+ATIS3:MIL channel C2
+ATIS4:
+PROFILE:ESIB_TWR:50:4
+ATIS2:Såtenäs Tower
+ATIS3:MIL channel A
+ATIS4:
+PROFILE:ESKM_I_TWR:50:4
+ATIS2:Mora Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESKN_TWR:50:4
+ATIS2:Skavsta Tower
+ATIS3:ATIS on 126.275
+ATIS4:
+PROFILE:ESMK_TWR:50:4
+ATIS2:Kristianstad Tower
+ATIS3:Covering Kristianstad CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESMQ_TWR:50:4
+ATIS2:Kalmar Tower
+ATIS3:Covering Kalmar CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESMS_APP:150:5
+ATIS2:Sweden Control
+ATIS3:Providing terminal control for ESMS and ESMK up to FL285.
+ATIS4:ESMS departures climb to 4000 ft unless otherwise instructed.
+PROFILE:ESMS_TWR:50:4
+ATIS2:Sturup Tower
+ATIS3:ATIS on 129.275
+ATIS4:Departures climb to 4000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESMT_TWR:50:4
+ATIS2:Halmstad Tower
+ATIS3:Covering Halmstad CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESMX_TWR:50:4
+ATIS2:Kronoberg Tower
+ATIS3:Covering Kronoberg CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESND_I_TWR:50:4
+ATIS2:Sveg Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNG_I_TWR:50:4
+ATIS2:Gällivare Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNK_I_TWR:50:4
+ATIS2:Kramfors Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNL_I_TWR:50:4
+ATIS2:Lycksele Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNN_TWR:50:4
+ATIS2:Sundsvall Tower
+ATIS3:Covering Sundsvall CTR and TMA up to FL95
+ATIS4:ATIS on 127.4
+PROFILE:ESNO_TWR:50:4
+ATIS2:Övik Tower
+ATIS3:Covering Örnsköldsvik CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESNQ_TWR:50:4
+ATIS2:Kiruna Tower
+ATIS3:Covering Kiruna CTR and TMA up to FL95
+ATIS4:Procedural service only - radar service not available.
+PROFILE:ESNS_TWR:50:4
+ATIS2:Skellefteå Tower
+ATIS3:Covering Skellefteå CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESNU_TWR:50:4
+ATIS2:Umeå Tower
+ATIS3:Covering Umeå CTR and TMA up to FL95. Advise if unable to follow RNAV SID.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESNV_I_TWR:50:4
+ATIS2:Vilhelmina Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNX_TWR:50:4
+ATIS2:Arvidsjaur Tower
+ATIS3:Covering Arvidsjaur CTR and TMA up to FL95.
+ATIS4:
+PROFILE:ESNX_I_TWR:50:4
+ATIS2:Arvidsjaur Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNZ_TWR:50:4
+ATIS2:Östersund Tower
+ATIS3:Covering Östersund CTR and TMA up to FL95. Advise if unable to follow RNAV SID.
+ATIS4:Departures climb to 6000 ft unless otherwise instructed.
+PROFILE:ESOE_TWR:50:4
+ATIS2:Örebro Tower
+ATIS3:Covering Örebro CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESOH_I_TWR:50:4
+ATIS2:Hagfors Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESOK_TWR:50:4
+ATIS2:Karlstad Tower
+ATIS3:Covering Karlstad CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESOW_TWR:50:4
+ATIS2:Västerås Tower
+ATIS3:Covering Västerås CTR and TMA sector Västerås up to FL65
+ATIS4:Including service for ESSU when ESSU AFIS is offline
+PROFILE:ESOW_APP:100:4
+ATIS2:Västerås Control
+ATIS3:Covering TMA sector Västerås up to FL65
+ATIS4:Including service for ESSU
+PROFILE:ESPA_APP:100:5
+ATIS2:Kallax Control - MIL channel C2
+ATIS3:Covering Luleå TMA up to FL95
+ATIS4:Departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESPA_TWR:50:4
+ATIS2:Kallax Tower - MIL channel A
+ATIS3:Covering Kallax CTR
+ATIS4:Departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESPE_TWR:50:4
+ATIS2:Vidsel Tower - MIL channel A
+ATIS3:Covering Vidsel CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESSA_APP:150:5
+ATIS2:Stockholm Control
+ATIS3:ESSA ATIS 119.0
+ATIS4:ESSA departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESSA_E_APP:150:5
+ATIS2:Stockholm Control
+ATIS3:ESSA ATIS 119.0
+ATIS4:ESSA departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESSA_W_APP:150:5
+ATIS2:Stockholm Control
+ATIS3:ESSA ATIS 119.0
+ATIS4:ESSA departures climb to 5000 ft unless otherwise instructed.
+PROFILE:ESSA_F_APP:100:5
+ATIS2:Stockholm Arrival
+ATIS3:(Final Director)
+ATIS4:
+PROFILE:ESSA_DEP:150:5
+ATIS2:Stockholm Departure
+ATIS3:ESSA departures climb to 5000 ft unless otherwise instructed.
+ATIS4:
+PROFILE:ESSA_TWR:50:4
+ATIS2:Arlanda Tower
+ATIS3:ATIS on 119.0. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSA_W_TWR:50:4
+ATIS2:Arlanda Tower
+ATIS3:ATIS on 119.0. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSA_E_TWR:50:4
+ATIS2:Arlanda Tower
+ATIS3:ATIS on 119.0. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSA_S_TWR:50:4
+ATIS2:Arlanda Tower
+ATIS3:ATIS on 119.0. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSA_GND:20:3
+ATIS2:Arlanda Ground
+ATIS3:ATIS on 119.0. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSA_E_GND:20:3
+ATIS2:Arlanda Ground - East sector
+ATIS3:ATIS on 119.0. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSA_N_GND:20:3
+ATIS2:Arlanda Ground - North sector
+ATIS3:ATIS on 119.0. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSA_W_GND:20:3
+ATIS2:Arlanda Ground - West sector
+ATIS3:ATIS on 119.0. Advise if unable to follow RNAV SID or follow standard taxi routes.
+ATIS4:Departures climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSA_DEL:10:2
+ATIS2:Arlanda Clearance Delivery
+ATIS3:ATIS on 119.0. On first contact state parking position, ATIS letter, QNH and aircraft type. Advise if unable to follow RNAV SID.
+ATIS4:Aircraft on SID shall climb to 5000 ft unless otherwise instructed. Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSB_TWR:50:4
+ATIS2:Bromma Tower
+ATIS3:ATIS on 122.450. Covering Bromma CTR up to 2000 ft.
+ATIS4:Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSB_GND:20:3
+ATIS2:Bromma Ground
+ATIS3:ATIS on 122.450.
+ATIS4:Charts and info at www.vatsim-scandinavia.org
+PROFILE:ESSB_APP:150:5
+ATIS2:Stockholm Control
+ATIS3:ESSB ATIS 122.450
+ATIS4:Covering Stockholm TMA sector S.
+PROFILE:ESSD_TWR:50:4
+ATIS2:Borlänge Tower
+ATIS3:Covering Borlänge CTR and TMA up to FL95
+ATIS4:
+PROFILE:ESSK_I_TWR:50:4
+ATIS2:Gävle Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESSL_TWR:50:4
+ATIS2:Saab Tower
+ATIS3:
+ATIS4:
+PROFILE:ESSP_TWR:50:4
+ATIS2:Kungsängen Tower
+ATIS3:
+ATIS4:
+PROFILE:ESSP_APP:100:5
+ATIS2:Östgöta Control
+ATIS3:Covering Östgöta TMA up to FL95
+ATIS4:Covering ESCF, ESKN, ESSL and ESSP
+PROFILE:ESST_I_TWR:50:4
+ATIS2:Torsby Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESSU_I_TWR:50:4
+ATIS2:Eskilstuna Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:Covering Eskilstuna TIZ
+PROFILE:ESSV_TWR:50:4
+ATIS2:Visby Tower
+ATIS3:
+ATIS4:
+PROFILE:ESSV_APP:100:5
+ATIS2:Visby Control
+ATIS3:Covering Visby TMA up to FL95
+ATIS4:
+PROFILE:ESTA_TWR:50:4
+ATIS2:Ängelholm Tower
+ATIS3:
+ATIS4:
+PROFILE:ESTA_APP:100:5
+ATIS2:Ängelholm Control
+ATIS3:Covering Ängelholm TMA up to FL95
+ATIS4:
+PROFILE:ESTL_TWR:50:4
+ATIS2:Ljungbyhed Tower
+ATIS3:ATIS on 132.750
+ATIS4:
+PROFILE:ESUD_I_TWR:50:4
+ATIS2:Storuman Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESUP_I_TWR:50:4
+ATIS2:Pajala Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESUT_I_TWR:50:4
+ATIS2:Hemavan Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESOS_P_CTR:250:6
+ATIS2:Blip driver / Simulator pilot
+ATIS3:
+ATIS4:
+END
